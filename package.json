@@ -1,0 +1,16 @@
+{
+  "name": "blood-donation-management-system",
+  "version": "1.0.0",
+  "description": "A comprehensive blood donation management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["blood", "donation", "management", "system"],
+  "author": "Ashishrai7251",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
